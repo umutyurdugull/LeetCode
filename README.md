@@ -17,6 +17,8 @@ My goal is to complete the **NeetCode 150** list and maintain a daily streak.
 | 01 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | 🟢 Easy  | Arrays / Hash Map |
 | 01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy  | Math / Bit Manipulation |
 | 01 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy  | Math / Dynamic Programming |
+| 01 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=plakya4j) | 🟢 Easy | String / Stack
+
 
 ## 🔗 Resources
 - [NeetCode 150 Problems on LeetCode](https://leetcode.com/problem-list/plakya4j/)
