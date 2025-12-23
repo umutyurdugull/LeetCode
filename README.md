@@ -1,20 +1,19 @@
-# 🚀 LeetCode Journey in C#
+#  LeetCode Journey in C#
 
 ![Language](https://img.shields.io/badge/Language-C%23-blue)
 ![Focus](https://img.shields.io/badge/Focus-Algorithms%20%26%20Data%20Structures-green)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
 
-## 📖 About
+##  About
 I am solving one LeetCode problem every day using **C#**. Although I have previously solved 47+ problems using C or C++, this repository is dedicated entirely to mastering C# syntax and .NET features while strengthening my algorithmic skills.
 
 My goal is to complete the **NeetCode 150** list and maintain a daily streak.
 
-## 🛠 Structure
+##  Structure
 Each solution is organized in a separate class within the `LeetCodeSolutions.Problems` namespace to keep the project clean and modular.
 
-## 📊 Progress Log
 
-## 📊 Progress Log
+##  Progress Log
 
 | Day | # | Problem | Difficulty   | Topic |
 |:---:|:---:|:---|:---:|:---|
