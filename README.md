@@ -9,6 +9,9 @@ I am solving one LeetCode problem every day using **C#**. Although I have previo
 
 My goal is to complete the **NeetCode 150** list and maintain a daily streak.
 
+⚠️CAUTION⚠️
+When I started this series, I had only 6 days left until my finals. That's why I might have skipped posting solutions on some days.
+
 
 ##  Progress Log
 
