@@ -9,9 +9,6 @@ I am solving one LeetCode problem every day using **C#**. Although I have previo
 
 My goal is to complete the **NeetCode 150** list and maintain a daily streak.
 
-##  Structure
-Each solution is organized in a separate class within the `LeetCodeSolutions.Problems` namespace to keep the project clean and modular.
-
 
 ##  Progress Log
 
