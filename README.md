@@ -18,7 +18,7 @@ My goal is to complete the **NeetCode 150** list and maintain a daily streak.
 | 01 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | 🟢 Easy  | Math / Bit Manipulation |
 | 01 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy  | Math / Dynamic Programming |
 | 01 | 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=plakya4j) | 🟢 Easy | String / Stack
-
+| 01 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=problem-list-v2&envId=plakya4j) | 🟢 Easy | Array\Dynamic Programming
 
 ## 🔗 Resources
 - [NeetCode 150 Problems on LeetCode](https://leetcode.com/problem-list/plakya4j/)
