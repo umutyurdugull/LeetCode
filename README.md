@@ -22,6 +22,7 @@ Each solution is organized in a separate class within the `LeetCodeSolutions.Pro
 | 01 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | 🟢 Easy  | Math / Dynamic Programming |
 
 ## 🔗 Resources
-- [NeetCode 150 Roadmap](https://neetcode.io/roadmap)
+- [NeetCode 150 Problems on LeetCode]([https://neetcode.io/roadmap](https://leetcode.com/problem-list/plakya4j/))
+
 - [My LeetCode Profile](https://leetcode.com/u/umutyurdugull/)
 
