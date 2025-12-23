@@ -25,5 +25,5 @@ Each solution is organized in a separate class within the `LeetCodeSolutions.Pro
 - [NeetCode 150 Problems on LeetCode](https://leetcode.com/problem-list/plakya4j/)
 
 
-- [My LeetCode Profile](https://leetcode.com/u/umutyurdugull/)
+- [My LeetCode Profile](https://leetcode.com/u/umutyurdugul/)
 
