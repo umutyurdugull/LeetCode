@@ -16,7 +16,4 @@ When I started this series, I had only 6 days left until my finals. That's why I
 
 ## 🔗 Resources
 - [NeetCode 150 Problems on LeetCode](https://leetcode.com/problem-list/plakya4j/)
-
-
 - [My LeetCode Profile](https://leetcode.com/u/umutyurdugul/)
-
